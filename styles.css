@@ -253,10 +253,9 @@ nav .ml-auto li:hover{
 
   #sidebar li:hover{
     color: #000;
-    font-weight: bold;
+    font-weight: 500;
   }
   #sidebar nav li a{
-    color:grey;
     text-decoration: none;
     margin-top: 0px;
   }
