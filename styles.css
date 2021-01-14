@@ -37,7 +37,7 @@ small{
 }
 .title{
   font-weight: 400;
-  font-size: 30px;
+  font-size: 28px;
   text-transform: capitalize;
   border-bottom: 1px solid #707070;
   padding-bottom: 9px;
@@ -118,7 +118,7 @@ small{
     margin-left: 50px;
   }
   .ml-auto li:last-child{
-    margin-right: 0px
+    margin-right: 35px
   }
   #mail{
     font-weight: 500;
