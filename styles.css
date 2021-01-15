@@ -90,6 +90,10 @@ small{
 
 
 }
+.indexrestbody{
+  margin-bottom: 100px;
+  margin-top: 80px;
+}
 @media (min-width:768px) {
   .sideimg{
     height: 200px;
@@ -103,10 +107,7 @@ small{
       width: 500px;
       height: 500px;
   }
-  .indexrestbody{
-    margin-bottom: 100px;
-    margin-top: 80px;
-  }
+
   .indexrestbody img{
     border-radius: 9px;
   }
